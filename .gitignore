@@ -27,6 +27,7 @@ coverage
 *.sln
 *.sw?
 
+.bloop/*
 bin/
 /db
 .eclipse
