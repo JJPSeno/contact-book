@@ -1,0 +1,6 @@
+2023-11-08 15:52:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTACT" not found; SQL statement:
+select "ID", "FIRST_NAME", "MIDDLE_NAME", "LAST_NAME", "PHONE_NUMBER", "EMAIL" from "CONTACT" [42102-200]
+2023-11-08 15:52:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTACT" not found; SQL statement:
+select "ID", "FIRST_NAME", "MIDDLE_NAME", "LAST_NAME", "PHONE_NUMBER", "EMAIL" from "CONTACT" [42102-200]
